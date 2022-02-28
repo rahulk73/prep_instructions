@@ -29,7 +29,7 @@ final.to_csv('aX_grades.csv',index=False)
 
 where `X` would be the number of the current assignment.
 
-###Step 3
+### Step 3
 Run the file and it should prepare a file `aX_grades.csv` which you can finally upload to mycourses. To upload go to `Grades` -> `Import` and select the csv prepared and upload.
 
 ### Details about `prep.py`
