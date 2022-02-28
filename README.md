@@ -9,7 +9,7 @@ First I download the classlist from mycourses. You need to do this just once for
 Hit `Export to CSV` and download the file. This will be the `classlist.csv` for the semester.
 
 ### Step 1
-After an assingment has passed the deadline and submissions are closed, incase there were updates to any private tests during the courses of the assignment, click on `Remark Submissions` from the dropdown first and remark their latest submission. 
+After an assingment has passed the deadline and submissions are closed, incase there were updates to any private tests during the course of the assignment, click on `Remark Submissions` from the dropdown first and remark their latest submission. 
 
 Then, select `Download Results` from the drop down. ![download](download.png)
 
